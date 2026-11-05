@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "flow-mcp": {
+      "command": "node",
+      "args": ["D:/Nghia/Truyen co tich/tools/flow-mcp/dist/index.js"]
+    },
+    "agent-storyboard": {
+      "command": "node",
+      "args": ["D:/Nghia/Truyen co tich/tools/agent-storyboard/plugins/agent-storyboard/mcp/server.mjs"],
+      "cwd": "D:/Nghia/Truyen co tich/tools/agent-storyboard/plugins/agent-storyboard"
+    }
+  }
+}

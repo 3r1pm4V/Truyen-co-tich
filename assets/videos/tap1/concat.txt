@@ -1,0 +1,4 @@
+file 'shot_01_kinh_do.mp4'
+file 'shot_02_dien_chau.mp4'
+file 'shot_03_chieu_chi.mp4'
+file 'shot_04_lang_lieu.mp4'
